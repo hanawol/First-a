@@ -1,0 +1,3 @@
+hwoldegi:myproject hwoldegi$ touch hwoldegi.txt
+hwoldegi:myproject hwoldegi$ ls
+hwoldegi.txt
